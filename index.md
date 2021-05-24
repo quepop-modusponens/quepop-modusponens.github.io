@@ -6,7 +6,6 @@ This app is designed for people with bad train tickets that don't have the time 
 
 ### User instruction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Insert user instruction here
