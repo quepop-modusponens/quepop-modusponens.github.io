@@ -1,3 +1,14 @@
+
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  window.OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "1c5c2a48-87c9-4389-96c2-610fad11904b",
+    });
+  });
+</script>
+
 ## Welcome to Que-Pop app designed for Nopixel server
 
 This app is designed for people with bad train tickets that don't have the time to wait in front of the PC for 8+ hours to get into the server.
